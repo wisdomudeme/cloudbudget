@@ -3,9 +3,25 @@
     padding: 0;
 }
 
+.navbar-nav{
+display: flex;
 
-.col{
-    display: flex;
-    justify-content: center;
+text-transform: uppercase;
+font-size: 20px;
+
 }
 
+.header-text{
+    
+    font-size: 70px;
+    font-weight: 30;
+    width: 100%;
+}
+
+.head-text2{
+    font-size: 20px;
+}
+
+.container-md>h2{
+    padding: 90px 0px 0px 0px;
+}
